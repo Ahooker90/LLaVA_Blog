@@ -8,6 +8,12 @@
 Behavior analysis is a complex topic. To make matters worse, it becomes increasingly more difficult when we consider incorporating computers to automate this task.
 However, if we had a well-tuned, responsive, and comprehensive algorithm for performaning inference on visual data, such that it was able to determine patterns of behavior, we would then be able to more effectively moderate and protect areas of interest (schools, childrens gaming environment, airports, etc.). In this repo, using LLaVA [[Haotian et al]](papers/2304.08485.pdf) we will explore current state of the are capabilities for perfoming visual inference on human interactions.
 
+## Motivation
+
+![Motivation](assets/motivation.png)
+
+The potential for Vision Language Models (VLM) to serve as a moderation tool and never-sleepy security gaurd is something I find very exciting. We as humans are able to ingest highly-meaningful data through our eyes. However, the amount of data we ingest through this sensor (our eyes) can result in fatigue when relied on for prolonged amounts of time.
+
 ## Background - Visual Instruction Tuning
 ![LLaVA architecture](assets/architecture.png)
 
@@ -69,7 +75,7 @@ The outcome of our experiment indicates, the model is strong with detailed descr
 
 ## Conlusion
 
-Visual language models such as LLaVA show huge potential for providing new tools for human moderation. While they may not work out of the box for specific use cases, they may be fine-tuned or prompted to provide additional performance boost. In this work we showed the following things:
+Visual language models such as LLaVA show huge potential for providing new tools for human moderation. While they may not work out of the box for specific use cases, they may be fine-tuned or prompted to provide additional performance boost. In this work we showed the following:
 
 - Broad overview of LLaVA
 - Showed how to set up LLaVA for inference
