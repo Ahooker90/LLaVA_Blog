@@ -83,3 +83,8 @@ Visual language models such as LLaVA show huge potential for providing new tools
 
 ## Thank you for your reading!
  -Adam Hooker
+
+## Refernces
+[1] Liu, Haotian, et al. "Visual instruction tuning." Advances in neural information processing systems 36 (2024).<br />
+[2] Liu, Haotian, et al. "Improved baselines with visual instruction tuning." arXiv preprint arXiv:2310.03744 (2023).<br />
+[3] LLaVA: Large Language and Vision Assistant, Visual Instruction Tuning." NeurIPS 2023 (Oral), llava-vl.github.io, 2023. Accessed 9 May 2024. [https://llava-vl.github.io/]
