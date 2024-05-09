@@ -81,7 +81,7 @@ Visual language models such as LLaVA show huge potential for providing new tools
 - Showed how to set up LLaVA for inference
 - Ran a small scale experiment to see how well LLaVA performed on describing distressing images
 
-## Thank you for your reading!
+## Thank you for reading!
  -Adam Hooker
 
 ## Refernces
